@@ -1,4 +1,4 @@
 # Maze007Style
-Computer Graphics Project:
-This was a final project for my Computer Graphics class. 
-Used Three.js Library.
+Computer Final Graphics Project
+
+Used Three.js - JavaScript 3D Library
